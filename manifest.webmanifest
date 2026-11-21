@@ -1,0 +1,23 @@
+{
+  "name": "NestList",
+  "short_name": "NestList",
+  "start_url": "/nestlist-web/",
+  "scope": "/nestlist-web/",
+  "display": "standalone",
+  "background_color": "#F6F5F2",
+  "theme_color": "#F6F5F2",
+  "icons": [
+    {
+      "src": "/nestlist-web/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nestlist-web/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
